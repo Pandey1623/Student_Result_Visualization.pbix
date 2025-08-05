@@ -1,3 +1,2 @@
-# Student_Result_Visualization.pbix
-Power BI
-Click here to view the Power BI Dashboard](https://cciitpatnamy.sharepoint.com/:u:/g/personal/shivam_2312res611_iitp_ac_in/EajIulOtRptBvOwrvJrgD2sBSD1syBFD3aKiRh9CBWyHoQ?e=SJ7fpt)
+project presentation(ppt)
+click here to view/ download the powerpoint](https://1drv.ms/p/c/369d9564ea2d565d/EWi_-w0lAG9DitpLHBiQWsIB2_cQkSBn163FmcIZ9bSqPA?e=VpPvhE) 
